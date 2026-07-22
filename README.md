@@ -50,7 +50,8 @@
 |---|---|---|
 | **[FestiCket](https://github.com/kookmin-sw/2026-capstone-56)** | 대학 행사 티켓팅 & 라이프사이클 관리 플랫폼 | React · Express · PostgreSQL · Supabase |
 | **[MaskingTape](https://github.com/ChoHyeonChan/maskingtape)** | 한국어 개인정보 비식별화 오픈소스 엔진 (개발 중) | Flutter · Dart |
-| **[KMURecSys26-RatingPrediction](https://github.com/stayalive000/KMURecSys26-RatingPrediction)** | 영화 평점 예측 추천시스템 — 8모델 CF 앙상블 & OOF Ridge 스태킹 (Public MSE 0.649) | Python · PyTorch · scikit-learn · LightGBM |
+| **[KMURecSys26-PlayedPrediction(대회)](https://github.com/stayalive000/steam-played-prediction)** | 🥇 **최종 1위** — Steam 게임 플레이 예측 추천시스템. SASRec·BERT4Rec 시퀀스 모델 & 다양성 앙상블 스태킹 (Accuracy 0.78200) | Python · PyTorch · LightGBM · XGBoost |
+| **[KMURecSys26-RatingPrediction(대회)](https://github.com/stayalive000/KMURecSys26-RatingPrediction)** | 🏅 **최종 5위** — 영화 평점 예측 추천시스템. 8모델 CF 앙상블 & OOF Ridge 스태킹 (MSE 0.65084) | Python · PyTorch · scikit-learn · LightGBM |
 
 <br>
 
