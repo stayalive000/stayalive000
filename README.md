@@ -43,7 +43,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<br>
 
 ## Projects
 
@@ -51,6 +50,7 @@
 |---|---|---|
 | **[FestiCket](https://github.com/kookmin-sw/2026-capstone-56)** | 대학 행사 티켓팅 & 라이프사이클 관리 플랫폼 | React · Express · PostgreSQL · Supabase |
 | **[MaskingTape](https://github.com/ChoHyeonChan/maskingtape)** | 한국어 개인정보 비식별화 오픈소스 엔진 (개발 중) | Flutter · Dart |
+| **[KMURecSys26-RatingPrediction](https://github.com/stayalive000/KMURecSys26-RatingPrediction)** | 영화 평점 예측 추천시스템 — 8모델 CF 앙상블 & OOF Ridge 스태킹 (Public MSE 0.649) | Python · PyTorch · scikit-learn · LightGBM |
 
 <br>
 
