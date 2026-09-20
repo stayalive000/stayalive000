@@ -6,7 +6,7 @@
 
 <img src="https://i.namu.wiki/i/SanmJtTrzFsNJJduG1ToUicbmfxmgnbt6Qb6aNn_M7UsO7q0An9iT74wnJCbzcv5lrHuJW2OUHGTJxYhB3OUMu8waj4cZAtYaJlNx0NFKmWSUnMm-qVBR5Mh_tF-bAID2vgbEF0vybXLlQgcGJ-vdA.svg" height="28" align="absmiddle"/> &nbsp;**국민대학교 인공지능학부**
 
-- **관심 분야** — 추천 시스템 · 퀀트 · 머신러닝 파이프라인
+- **관심 분야** — CV · 머신러닝 파이프라인
 
 <br>
 
