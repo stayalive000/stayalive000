@@ -4,7 +4,7 @@
 
 ## About Me
 
-<img src="https://i.namu.wiki/i/Uf8susSwJH4dm0j78RhVHdtG7tFJBkkW9i5Jc-EI1RfX-uZvlZM8-4nfjLKfFPlPfyErzMd4QlVFFN-nwdkxhIUf-eSGOJnoK5nih_HIsRQRRAepKU9SCEgCOOtYV5j04k4MEg8RZU2zhgbQB9ByBg.svg" height="28" align="absmiddle"/> &nbsp;**국민대학교 인공지능학부**
+<img src="https://i.namu.wiki/i/SanmJtTrzFsNJJduG1ToUicbmfxmgnbt6Qb6aNn_M7UsO7q0An9iT74wnJCbzcv5lrHuJW2OUHGTJxYhB3OUMu8waj4cZAtYaJlNx0NFKmWSUnMm-qVBR5Mh_tF-bAID2vgbEF0vybXLlQgcGJ-vdA.svg" height="28" align="absmiddle"/> &nbsp;**국민대학교 인공지능학부**
 
 - **관심 분야** — 추천 시스템 · 퀀트 · 머신러닝 파이프라인
 
